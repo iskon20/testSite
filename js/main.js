@@ -16,7 +16,7 @@ const translations = {
     headerContentDescription: `здесь вы найдёте эко продукцию
     из натуральных инградиентов для вашей здоровой кожи!`,
     descriptionTitle: "Новая линия косметики",
-    descriptionAboutUs: `Добро пожаловать в наш салон '...', где вы можете найти наш бредовый
+    descriptionAboutUs: `Добро пожаловать в наш салон Silk Green Theraphy, где вы можете найти наш бредовый
     серум для лица и спа для рук. Наш бредовый Серум для лица и рук это
     жидкость с легкой, текучей структурой высокой концентрации,
     обогащенная биологическими веществами и натуральными компонентами.
@@ -39,7 +39,7 @@ const translations = {
     headerContentDescription: `Here you will find eco products made 
     from natural ingredients for your healthy skin!`,
     descriptionTitle: "New line of cosmetics",
-    descriptionAboutUs: `Welcome to our salon '...', where you can find our branded
+    descriptionAboutUs: `Welcome to our salon Silk Green Theraphy, where you can find our branded
     face serum and hand spa. Our branded Face and Hand Serum is a
     liquid with a light, flowing structure of high concentration,
     enriched with biological substances and natural components.
@@ -61,7 +61,7 @@ const translations = {
     headerContentTitle: "Sog‘lom teri",
     headerContentDescription: `Bu yerda siz sog‘lom teringiz uchun tabiiy ingredientlardan tayyorlangan ekologik mahsulotlarni topasiz!`,
     descriptionTitle: "Yangi kosmetika liniyasi",
-    descriptionAboutUs: `Bizning salonimizga xush kelibsiz, bu yerda siz yuz uchun serum va qo‘llar uchun spa mahsulotlarimizni topishingiz mumkin. 
+    descriptionAboutUs: `Bizning salonimizga xush kelibsiz, Silk Green Theraphy yerda siz yuz uchun serum va qo‘llar uchun spa mahsulotlarimizni topishingiz mumkin. 
     Yuz va qo‘l uchun mo‘ljallangan ushbu serum yengil, suyuq tuzilishga ega bo‘lib, yuqori konsentratsiyali biologik moddalar va tabiiy komponentlar bilan boyitilgan. 
     Ekologik mahsulot terining chuqur qatlamlariga kirib borib, tez qarishni sekinlashtiradi va yuzingizga yoshlik hamda yangilik bag‘ishlaydi.`,
     contactWithUsTitle: "Biz bilan bog‘laning",

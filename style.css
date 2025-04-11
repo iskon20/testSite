@@ -38,9 +38,12 @@ header {
   }
 }
 
-body {
+body, html {
   font-family: "Roboto", sans-serif;
+
   font-weight: 400;
+
+  scroll-behavior: smooth;
 }
 
 nav {
@@ -56,9 +59,11 @@ nav {
   .logo {
     user-select: none;
     pointer-events: none;
+    height: 100%;
   }
   .logo img {
-    width: 40px;
+    width: 160px;
+    height: 100%;
   }
   ul {
     display: flex;
@@ -328,7 +333,7 @@ footer {
   }
 }
 
-@media (max-width: 595px) {
+@media (max-width: 700px) {
   nav .nav-links {
     position: absolute;
     top: 70px;
