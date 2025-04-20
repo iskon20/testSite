@@ -12,7 +12,7 @@ const translations = {
     shop: "Магазин",
     aboutNav: "О продукции",
     contact: "Контакты",
-    headerContentTitle: "Здоровая кожа",
+    headerContentTitle: "Silk Green Theraphy",
     headerContentDescription: `здесь вы найдёте эко продукцию
     из натуральных инградиентов для вашей здоровой кожи!`,
     descriptionTitle: "Новая линия косметики",
@@ -29,13 +29,14 @@ const translations = {
     phoneNumber: "Позвоните нам:",
     address: "АДРЕС:",
     addressV: "Город Фаргона, ул. Кувачой дом 240А",
+    titleOfSecond: "Косметические Товары"
   },
   en: {
     home: "Home",
     shop: "Shop",
     aboutNav: "About production",
     contact: "Contacts",
-    headerContentTitle: "Healthy skin",
+    headerContentTitle: "Silk Green Theraphy",
     headerContentDescription: `Here you will find eco products made 
     from natural ingredients for your healthy skin!`,
     descriptionTitle: "New line of cosmetics",
@@ -47,18 +48,19 @@ const translations = {
     rapid aging, giving your face youth and freshness.`,
     contactWithUsTitle: "Contact us",
     contactWithUsDesc:
-      "This information section provides the complete contact details of our company, including phone numbers, mailing address, email, and a map link indicating our location.",
+    "This information section provides the complete contact details of our company, including phone numbers, mailing address, email, and a map link indicating our location.",
     email: "E-Mail:",
     phoneNumber: "Call To Us:",
     address: "Address:",
     addressV: "Fargona city, Kuvachoy street, house 240A",
+    titleOfSecond: "Beauty Products"
   },
   uz: {
     home: "Bosh sahifa",
     shop: "Do‘kon",
     aboutNav: "Mahsulotlar haqida",
     contact: "Aloqa",
-    headerContentTitle: "Sog‘lom teri",
+    headerContentTitle: "Silk Green Theraphy",
     headerContentDescription: `Bu yerda siz sog‘lom teringiz uchun tabiiy ingredientlardan tayyorlangan ekologik mahsulotlarni topasiz!`,
     descriptionTitle: "Yangi kosmetika liniyasi",
     descriptionAboutUs: `Bizning salonimizga xush kelibsiz, Silk Green Theraphy yerda siz yuz uchun serum va qo‘llar uchun spa mahsulotlarimizni topishingiz mumkin. 
@@ -66,11 +68,12 @@ const translations = {
     Ekologik mahsulot terining chuqur qatlamlariga kirib borib, tez qarishni sekinlashtiradi va yuzingizga yoshlik hamda yangilik bag‘ishlaydi.`,
     contactWithUsTitle: "Biz bilan bog‘laning",
     contactWithUsDesc:
-      "Ushbu ma’lumot bo‘limida kompaniyamizning to‘liq aloqa ma’lumotlari keltirilgan: telefon raqamlari, pochta manzili, elektron pochta hamda joylashuvimizni ko‘rsatuvchi xarita havolasi.",
+    "Ushbu ma’lumot bo‘limida kompaniyamizning to‘liq aloqa ma’lumotlari keltirilgan: telefon raqamlari, pochta manzili, elektron pochta hamda joylashuvimizni ko‘rsatuvchi xarita havolasi.",
     email: "Elektron pochta:",
     phoneNumber: "Telefon:",
     address: "MANZIL:",
     addressV: "Farg‘ona shahri, Kuvochoy ko‘chasi, 240A-uy",
+    titleOfSecond: "Go'zallik mahsulotlari"
   },
 };
 
