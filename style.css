@@ -100,6 +100,8 @@ nav .burger {
   justify-content: center;
   gap: 20px;
 
+  text-align: center;
+
   margin: 80px auto 20px auto;
 
   h3 {
@@ -361,6 +363,30 @@ footer {
 }
 
 @media (max-width: 700px) {
+  .slick-slide {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+  
+    img {
+      width: 90%;
+    }
+  }
+
+  .pictures2 {
+    margin: 0px auto 50px auto;
+  }
+
+  .titleOfSecondSlider{
+    margin: 50px auto 20px auto;
+  }
+
+  .pictures2 .titleAndSlider .slick-slide {
+    img {
+      width: 10% !important;
+    }
+  }
+
   nav .nav-links {
     position: absolute;
     top: 70px;
